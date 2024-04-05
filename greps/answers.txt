@@ -1,16 +1,25 @@
 # Part 1
 ### a)
-
-
-
-
+grep -p "beed" forest/filescan_00.1
+grep -p "blas" forest/filescan_00.1
+grep -p "bulb" forest/filescan_00.1
+grep -p "butt" forest/filescan_00.1
+grep -p "izard" forest/filescan_00.2
+grep -p "mander" forest/filescan_00.2
+grep -p "meleon" forest/filescan_00.2
+grep -p "ivys" forest/filescan_00.3
+grep -p "jigg" forest/filescan_00.3
+grep -p "meow" forest/filescan_00.3
+grep -p "pika" forest/filescan_00.3
+grep -p "psyd" forest/filescan_00.4
+grep -p "squi" forest/filescan_00.4
+grep -p "venu" forest/filescan_00.4
+grep -p "wart" forest/filescan_00.4
 ### b)
 
 
 
 ### c)
-
-
 
 
 
