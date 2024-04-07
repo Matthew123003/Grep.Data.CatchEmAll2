@@ -15,17 +15,43 @@ grep -p "psyd" forest/filescan_00.4
 grep -p "squi" forest/filescan_00.4
 grep -p "venu" forest/filescan_00.4
 grep -p "wart" forest/filescan_00.4
+
+
 ### b)
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "beed" forest/filescan_00.1 > beed.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "blas" forest/filescan_00.1 > blastoise.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "bulb" forest/filescan_00.1 > bulbasaur.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "butt" forest/filescan_00.1 > butterfree.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "izard" forest/filescan_00.2 > charizard.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "mander" forest/filescan_00.2 > charmander.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "meleon" forest/filescan_00.2 > charmeleon.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "ivys" forest/filescan_00.3 > ivysaur.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "jigg" forest/filescan_00.3 > jigglypuff.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "meow" forest/filescan_00.3 > meowth.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "pika" forest/filescan_00.3 > pikachu.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "psyd" forest/filescan_00.4 > psyduck.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "squi" forest/filescan_00.4 > squirtle.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "venu" forest/filescan_00.4 > venusaur.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "wart" forest/filescan_00.4 > wartortle.txt
 
 
 
 ### c)
-
-
-
-
-
-
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "beed" forest/filescan_00.1 > beed.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "blas" forest/filescan_00.1 > blastoise.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "bulb" forest/filescan_00.1 > bulbasaur.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "butt" forest/filescan_00.1 > butterfree.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "izard" forest/filescan_00.2 > charizard.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "mander" forest/filescan_00.2 > charmander.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "meleon" forest/filescan_00.2 > charmeleon.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "ivys" forest/filescan_00.3 > ivysaur.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "jigg" forest/filescan_00.3 > jigglypuff.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "meow" forest/filescan_00.3 > meowth.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "pika" forest/filescan_00.3 > pikachu.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "psyd" forest/filescan_00.4 > psyduck.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "squi" forest/filescan_00.4 > squirtle.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "venu" forest/filescan_00.4 > venusaur.txt
+matthew@Zipcoders-MacBook-Pro Grep.Data.CatchEmAll2 % grep -n "wart" forest/filescan_00.4 > wartortle.txt
 
 
 
@@ -33,14 +59,14 @@ grep -p "wart" forest/filescan_00.4
 
 # Part 2
 ### a)
-
-
-
+15 pokemon
+Beedrill, Blastoise, Bulbasaur, Butterfree, Charizard, Charmander, Charmeleon, Ivysaur,
+Jigglypuff, Meowth, Pikachu, Psyduck, Squirtle, Venusaur, Wartortle
 
 
 
 ### b)
-
+Beedrill, Charizard, Pikachu
 
 
 
