@@ -67,6 +67,7 @@ Jigglypuff, Meowth, Pikachu, Psyduck, Squirtle, Venusaur, Wartortle
 
 ### b)
 Beedrill, Charizard, Pikachu
+grep -c captured/*.txt
 
 
 
